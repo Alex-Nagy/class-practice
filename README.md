@@ -1,3 +1,3 @@
-# class-practice
+# Practicing classes
 
 - JS
